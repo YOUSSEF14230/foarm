@@ -1,0 +1,10 @@
+a{
+    text-align: center;
+    text-decoration: none;
+    font-family: sans-serif;
+    transition: 0.4 ease;
+    font-size: 60px;
+}
+a:hover{
+    color: rgb(244, 5, 5);
+}

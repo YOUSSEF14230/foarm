@@ -1,0 +1,65 @@
+body{
+background-color:aliceblue;
+background-image: url(../image/liana-s-k7RLGSA471U-unsplash.jpg);
+background-size: cover;
+
+}
+
+form{
+    text-align: center;
+    font-family: sans-serif;
+   font-size:40px;
+  
+   display:block;
+   margin: auto;
+   position: absolute;
+   width: 550px;
+   top: 40%;
+    right: 30%;
+    bottom: 200px;
+    color: rgb(0, 0, 0);  
+}
+input{
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+}
+.f{
+ border: 3px solid black;
+ text-align: center;
+}
+.s{
+ border: 3px solid black;
+ text-align: center;
+}
+.e{
+ border: 3px solid black;
+ text-align: center;
+}
+h2{
+   right: 30%;
+    font-size: 268%;
+    top: 170px;
+    position: absolute;
+    color:  rgb(255, 255, 255);
+    width: 700px;
+    text-align: center;
+}
+
+
+h1{
+    top: -300px;
+    position: absolute;
+    right: 10%;
+    width: 1100px;
+    text-align: center;
+    background-color: rgb(28 26 47);
+    height: 110px;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+
+
